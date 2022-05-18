@@ -14,3 +14,10 @@
 - im src/Test Ordner wird nun eine Test Klasse angelegt
 - hier werden die Test Methoden implementiert
 - eine Test Methode wird [auf diese Weise](https://fictional-eureka-49f222de.pages.github.io/week-1.html#72) angelegt
+- übliche Vorgehnsweise für Tests:
+    - ein Test wird implementiert
+    - auf dieser Grundlage wird die Methode definiert
+    - danach wird der Code refactored
+    - dann beginnt mit dem nächsten Test der nächst Durchlauf
+- Tests bilden vor allem auch die Funktionalität eines Programms ab
+- so ist für andere auch ersichtlich wie genau eine Methode funktionieren soll
